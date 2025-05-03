@@ -324,6 +324,7 @@ collision_layer = 2
 script = ExtResource("1_tuyoq")
 
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
+z_index = 1
 sprite_frames = SubResource("SpriteFrames_y4r1p")
 animation = &"run"
 autoplay = "run"
